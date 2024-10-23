@@ -1,0 +1,15 @@
+Heatmap_24.pdf
+Heatmap_44.pdf
+bar_percentage.pdf
+enrichment_tfbs.pdf
+propr_TFBS.pdf
+scatters.pdf
+volc_scat.pdf
+volcanos.pdf
+.DS_Store
+README.qmd
+README_cache/
+Results_h24.xlsx
+Results_h44.xlsx
+Scripts_Cruz_etal_2024_files/.DS_Store
+Scripts_Cruz_etal_2024_files/figure-commonmark/
